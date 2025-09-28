@@ -1,4 +1,4 @@
-Python script to process a text file exported from a Typepad blog into a WordPress blog.
+Python script to process a text file exported from a Typepad blog before importing into a WordPress blog.
 
 The script is intended to redirect all references to other blog posts (in the original blog) to blog posts in the soon-to-be re-constituted blog on Wordpress, as well as to fix problems due to early Typepad formatting conventions in creating URLs such as limiting title strings to 15 characters and using underscores instead of hyphens in the conversion of title strings to URLs.
 
