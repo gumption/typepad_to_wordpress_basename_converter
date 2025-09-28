@@ -19,4 +19,6 @@ The script
 
 The function expects that each Typepad blog post reference uses the pattern `http(s)?://original_base_url/yyyy/mm/title.html` and each Wordpress blog post will use the pattern `https://new_base_url/yyyy/mm/title` (no `'.html'`)
 
+I shared the steps I took (including running this script) in [Migrating from Typepad to WordPress](https://interrelativity.com/2025/09/migrating-from-typepad-to-wordpress), my first new blog post on the new site.
+
 This worked for me, using defaults above, but no warranty is provided that it will work for others.
