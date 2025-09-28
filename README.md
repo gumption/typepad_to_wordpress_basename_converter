@@ -17,6 +17,6 @@ The script
 * saves `basename_mappings` in `basename_mappings_file`
 * saves `url_replacements` in `url_replacements_file`
 
-The function expects that each Typepad blog post reference uses the pattern `http(s)?://original_base_url/yyyy/mm/title.html` anE each Wordpress blog post will use the pattern `https://new_base_url/yyyy/mm/title` (no `'.html'`)
+The function expects that each Typepad blog post reference uses the pattern `http(s)?://original_base_url/yyyy/mm/title.html` and each Wordpress blog post will use the pattern `https://new_base_url/yyyy/mm/title` (no `'.html'`)
 
 This worked for me, using defaults above, but no warranty is provided that it will work for others.
